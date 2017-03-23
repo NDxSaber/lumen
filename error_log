@@ -1,0 +1,2 @@
+[23-Mar-2017 10:32:51 UTC] PHP Warning:  require(/home/xncrlmkp/public_html/api/../bootstrap/app.php): failed to open stream: No such file or directory in /home/xncrlmkp/public_html/api/index.php on line 14
+[23-Mar-2017 10:32:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/xncrlmkp/public_html/api/../bootstrap/app.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xncrlmkp/public_html/api/index.php on line 14
